@@ -1,0 +1,268 @@
+classification|excerpt_lem
+1|software  define networking  sdn
+1|spdy experimental protocol multiplexe multiple  concurrent stream  typically http request  response stream  single tcp connection
+0|aspdotnet signalr library aspdotnet developer make incredibly simple add real  time web functionality application   real  time web  functionality  be ability server  side code push content connect client happen  real  time
+2|apache kafka publish  subscribe messaging framework java  design distribute  high  throughput system
+1|kubernete open source implementation container cluster management
+2|owasp ze attack proxy  zap
+2|apache camel powerful open source integration framework base know enterprise integration pattern powerful bean integration
+2|graphite highly scalable real  time graphing system  specifically build visualize numeric time  series datum  datum visualize graphite s web interface  graphite apache  license write python
+0|open web interface dotnet describe component http pipeline communicate
+2|zipkin open source distribute trace system create twitter
+2|triplestore purpose  build database storage retrieval resource description framework  rdf  metadata  rdf store simple statement three element  subject  predicate object   hence  triple
+1|aws lambda allow user run code response event  also manage infrastructure necessary execute code within millisecond event
+0|nashorn open  source  jvm  base javascript engine  replace rhino javascript engine start java
+1|kvm  kernel  base virtual machine  full virtualization solution linux x hardware contain virtualization extension  intel vt amd  v
+0|bluebird fully feature promise library client server javascript focus innovative feature performance
+1|google app engine cloud compute technology host web application google  manage datum center  google app engine platform service  paas  offering java  python  go php
+0|swift application system programming language develop apple distribute open source  use tag question specific swift language feature  require code language
+1|mariadb open source database server offer drop  replacement functionality mysql
+1|openid connect rest  friendly protocol  possibly cross  domain  exchange user identity build top oauth  jwt specification
+1|akka open  source toolkit runtime simplify construction concurrent distribute application jvm  implement actor model know erlang
+1|ceph distribute object store file system design provide excellent performance  reliability scalability
+1|web service  software system design support interoperable machine   machine interaction world wide web
+2|aspdotnet mvc framework open source web application framework tool implement version model  view  controller  mvc  pattern tailor towards web application build upon aspdotnet technology foundation
+1|rackspace cloud set cloud computing product service bill utility computing basis us  base company rackspace  offering include web application host platform service   cloud site    cloud storage   cloud file    virtual private server   cloud server    load balancer  database  backup  monitoring
+1|internet explorer   ie  old version internet explorer  ship windows xp windows server   internet explorer  long support microsoft
+2|sonarqube  formerly sonar  quality management platform focus continuous analysis source code quality  provide source code quality metric duplicate code  code standard  unit test  code coverage  complex code  potential bug  comment design architecture
+1|open source bsd  license  memory datum structure store use database  cache message broker  support data structure string  hash  list  set  sorted set range query  bitmap  hyperloglog geospatial index radius query  build  replication  lua scripting  lru eviction  transaction different level  disk persistence  high availability via redis sentinel automatic partition redis cluster
+2|datum visualization study visual representation datum  map chart common type datum visualization  many
+1|java virtual machine  jvm  enable set computer software program datum structure use virtual machine model execution computer program script  use tag question deal tool provide jvm work specific scenario
+1|meteor modular platform develop web mobile application javascript base nodejs platform
+0|next generation javascript client framework leverage simple convention empower creativity
+0|enlive clojure library html  xml extraction  transformation  templating
+0|retrofit type  safe rest client android java square  inc
+0|clojurescript interface facebook s react
+2|nosql  sometimes expand  sql   broad class database management system differ classic model relational database management system  rdbms  significant way
+2|distribute environment  failure give service inevitable  hystrix library design control interaction distribute service provide great latency fault tolerance
+2|mercurial fast  open  source dvcs  distribute version control system
+0|fsharp succinct  expressive efficient functional object  orient language dotnet help write simple code solve complex problem
+0|qjs javascript promise library  q catch error use   technique handle javascript callback exception    use angular s  q  use  angular  promise  instead
+1|mapbox mapping platform include custom base map  direction  geocoding  mobile sdks
+2|new relic web application performance monitoring service ruby  java  dotnet  php  python  nodejs  android  ios app
+0|alamofire http networking library write swift
+2|client  server side pdf printing pure javascript
+1|gpgpu acronym field computer science know  general purpose computing graphic processing unit  gpu
+1|google bigquery web service let interactive analysis massive dataset  billion row  scalable easy use  bigquery let developer business tap powerful datum analytic demand
+0|play framework  major revision play  ruby rail  like framework java platform  version  introduce feature use scala language  akka actor  scala template build system  sbt
+0|lua powerful  fast  lightweight  embeddable scripting language  be dynamically typed  run interpret bytecode automatic garbage collection  speed one main reason widely use machine learn community  often refer  extensible extension language
+0|emberjs mvc application framework write javascript
+1|neoj open  source  transactional graph database well suited connected datum  use variety use  case directly jvm language via language driver via http  apis
+2|pit fast bytecode  base mutation testing system java
+1|nodejs event  base  non  blocking  asynchronous  framework use google s v javascript engine libuv library  use develop application make heavy use ability run javascript client  well server side therefore benefit  usability code lack context switching
+1|http strict transport security  hst  web security policy mechanism whereby web server declare comply user agent interact use secure https connection
+2|github web  base host service software development project use git version control
+0|spray open  source toolkit build rest  http  base integration layer top scala akka
+0|frege haskell jvm  like haskell  purely functional  enjoy strong static type system global type inference non  strict  also know lazy  evaluation
+0|yeoman command  line tool frontend web development   web application boilerplate   main feature include project scaffolding  build process base part gruntjs  package management update project dependency
+0|powerful flexible toolkit building web apis  django high  level python web framework encourage rapid development clean  pragmatic design  build experienced developer  take care much hassle web development  focus write app without need reinvent wheel   free open source
+0|elixir open  source  dynamic  compile  general purpose functional programming language  design fully compatible erlang platform well suited write fault  tolerant  distribute application soft real  time guarantee ability hot  code  swapping
+0|requirejs javascript file module loader  optimize  browser use  use javascript environment  like rhino node  use require call come bundle nodejs use requirejs  please use tag case  use require tag instead
+0|sinatra base framework build dashboard simple way  use premade widget  fully create scss  html  coffeescript
+1|fastly cdn provider
+2|nuget free  open source developer focus package management system dotnet platform
+1|microsoft azure  formerly window azure  platform service  paas  infrastructure service  iaas  cloud compute platform microsoft  user platform deploy application onto cloud host benefit  demand service  elastic scale  highly manage environment pay    go basis
+0|backbonejs javascript framework restful json interface base model  view  presenter  mvp  application design paradigm
+1|hadoop  represent second generation popular open source distribute platform apache hadoop
+1|elasticsearch open source  apache    distribute  restful  search engine build top lucene
+1|cloudera impala open source massively parallel processing  mpp  query engine run natively apache hadoop
+0|coffeescript language compile javascript  underneath embarrassing brace semicolon  javascript always gorgeous object model heart  coffeescript attempt expose good part javascript simple way
+2|ansible model  drive configuration management  multi  node deployment  orchestration remote task execution system  use ssh default  special software instal node manage  ansible extend language
+2|swagger specification framework implementation describe  produce  consume  visualize restful web service
+2|cucumber behavior drive development  bdd  tool execute functional description write plain text  structure simple gherkin language  automate test
+1|heroku cloud platform ruby  nodejs  python  go  php  jvm  base application  feature git  base  github  api deployment strategy  large number service offer add  on  full api
+2|zucchini visual ios testing framework build ruby  coffeescript javascript
+2|frank allow write structured text test  acceptance test  requirement  use cucumber  execute io application
+1|use programming development question relate android  google s os digital device  phone  tablet  auto  tv  wear  glass   please use android  specific tag android  intent  intent  question general use  development programming  use
+2|locust python load testing framework
+0|immutablej provide persistent immutable list  stack  map  orderedmap  set  orderedset record  highly efficient modern javascript vms  browser nodejs  use structural sharing via hash map try vector try popularize clojure scala  minimize need copy cache datum
+1|rdfa  resource description framework attribute  technique allow express structured datum markup language  provide set attribute augment visual information web machine  readable hint
+0|graphql data query language describe complex  nested datum dependency modern web application  create facebook
+1|gwt  formerly google web toolkit  development toolkit build optimize complex browser  base application  goal enable productive development high  performance web application without require developer expert browser quirk  xmlhttprequ  javascript  gwt use many product google  include new version adword group  be open source completely free  apache  license
+0|sass  syntactically awesome style sheet  extension css add feature like nest rule  variable  mixin class extension  enable developer write structured  manageable reusable css  sass compile standard css
+0|react native enable build mobile app use javascript react  base declarative ui component get translate platform  native view  focus react native developer efficiency across platform care  learn  write anywhere
+0|java  refer version   internal number   java platform  release  march
+0|typescript typed superset javascript create microsoft add optional type  class  interface module compile plain javascript  typescript include advanced feature generic type  type inference  lambda function  string template  interpolation   destructure
+2|composer tool dependency management php  allow declare project dependency install  see
+0|angularjs open  source javascript framework  goal augment browser  base application model  view  whatevermv   capability reduce amount javascript need make web application functional  type app also frequently know single  page application
+0|redux predictable state container javascript application base flux design pattern
+2|get apigee product relate answer support apigee community apigee company produce sell api management platform  product include api communication gateway  backend    service app service  rest  accessible json store  use tag question apigee product  also indicate apigee product api dashboard edge
+0|javaserver face  jsf  model  view  presenter framework typically use create html form base web application  use standard component render kit  stateful html view define use facelet jsp tag wire model datum application logic via back bean
+1|apache spark open source cluster computing system large  scale data analytic computing
+0|julia high  level  high  performance dynamic programming language technical computing  syntax familiar user technical computing environment
+0|html  hardware  agnostic event device like mouse  pen  touchscreen  css  property specify particular graphic element become target mouse event
+2|sensu open source monitor framework write ruby
+1|google chrome web browser available mobile  tv  desktop platform  develop google  use blink layout engine application framework v javascript engine
+2|mashery commercial api management service deploy  documenting monitor api service cloud premise
+1|oauth  open authorization  specification client application access protect resource behalf user  develop alternative user hand login credential third  party application
+1|mobile website refer design implementation web content aim client use mobile device phone tablet
+2|go continuous delivery server automate build  test  release cycle  open source
+0|scratch graphical drag   drop language develop mit
+0|haml markup language s use cleanly simply describe html web document without use inline code  use standalone html generation tool template render engine web framework ruby rail ramaze
+1|couchbase server distribute database engineer performance  scalability  availability flexible query  enable developer build application easy fast leverage power sql flexibility json  couchbase build three core principle  simple  fast  elastic
+1|riak key  value datum store write erlang  implement principle amazon s dynamo paper
+0|hardware abstraction layer
+1|cloud foundry open platform service  provide choice cloud  developer framework application service  open source project available variety private cloud distribution public cloud instance  include cloudfoundrycom
+1|storm distribute realtime computation system  similar hadoop provide set general primitive batch processing  storm provide set general primitive realtime computation  storm simple  use programming language
+1|altdotnet describe coalesce community like  minded individual within large world microsoft dotnet framework feel grow frustration microsoft tooling  guidance  dotnet culture large reflect support important set core value  one common topic alt dotnet event close gap requirement  testing  code
+0|wolfram language knowledge base  multi  paradigm programming language  first approximation  wolfram language  mathematica  wolframalpha  cloud   be compatible mathematica  be significant evolution  include knowledge  deployment many new idea
+0|groovy object  orient programming language java platform  dynamic language feature similar python  ruby  perl smalltalk  use scripting language java platform
+2|birt  business intelligence reporting tool  open source eclipse  base reporting system integrate java  java ee application produce compelling report
+1|amazon s  simple storage service  online storage service amazon web service
+1|realm mobile database replacement sqlite  core datum  available xamarin  java  objective  c  react native swift
+0|reactivecocoa  rac  objective  c framework functional reactive programming  provide apis compose transform stream value
+0|domain  specific language programming language intend particular application domain
+1|ho  memory platform machine learning base java apache  technology like hadoop  aim parallelize processing provide interface many language like r python  open source project maintain xdata
+0|java general  purpose object  orient programming language design use conjunction java virtual machine  jvm    java platform  name computing system instal tool develop run java program  use tag question refer java programming language java platform tool   note java confuse javascript
+1|window phone microsoft s mobile operating system software development platform  use tag question specific version x
+0|spring boot make easy create spring  power  production  grade application service absolute minimum fuss  take opinionated view spring platform new exist user quickly get bit need
+2|open source project give system administrator power easily automate repetitive task  quickly deploy application  proactively manage server   premise cloud
+1|postgresql open  source  object  relational database management system  ordbms  available major platform include linux  unix  window os x please mention exact version postgre ask question  question concern administration advanced feature well direct dbastackexchangecom
+2|leaflet open  source javascript library display interactive map
+2|gradle project build automation tool use groovy dsl  gradle build script support maven ivy repository well plain file system dependency management
+1|coreo provide new server operating system run thousand server
+1|time series sequence datum point value measure successive time  either continuous time discrete time period   time series analysis exploit natural temporal ordering extract meaning trend underlie datum
+0|ionic front  end framework develop native  feel hybrid mobile app html use sass angularjs  default  run top cordova  though also choose use phonegap
+2|origami prototyping tool design user interface  develop facebook release december   relate question tool andor use quartz composer  visual programming language develop apple inc
+1|apache jackrabbit  content repository fully conform implementation content repository java technology api  jcr  specify jsr     content repository hierarchical content store support structured unstructured content  full text search  versioning  transaction  observation
+0|totallylazy functional library java try lazy possible  like clojure s collection library
+2|packer tool create identical machine image multiple platform single source configuration
+0|bootstrap front  end framework design kick  start development web app site  question relate version bootstrap also use specific version s tag  twitter  bootstrap    twitter  bootstrap   twitter  bootstrap  tag
+0|elm functional programming language write web application fully replace  interoperate  html  css  javascript
+1|openstack  collection open source project enable open  scalable cloud infrastructure  core openstack mean provide consistent apis interface variety potential back  end
+2|wcf web api project allow wcf developer expose apis via http  aspdotnet mvc  wcf web api become aspdotnet web api
+1|apparmor linux security module  lsm  linux kernel  implement mandatory access control confine program within limit set resource
+2|rspec behavior  drive development  bdd  framework ruby programming language  inspire jbehave  contain fully integrate mocking framework base upon jmock  framework consider domain  specific language  dsl  resemble natural language specification
+1|linux container  lxc  operate system  level virtualization method run multiple isolated linux system  container  single control host
+0|ruby multi  platform open  source  dynamic object  orient interpret language  create yukihiro matsumoto  matz
+1|coreclr new dotnet core runtime  execution engine dotnet app  perform function il byte code loading  compilation machine code garbage collection
+0|flight lightweight  component  base javascript framework map behavior dom nodes  twitter use web application
+0|knockoutjs open source javascript library dynamic html uis use model  view  view model  mvvm  pattern
+0|fsharp succinct  expressive efficient functional object  orient language dotnet help write simple code solve complex problem
+0|dropwizard java framework develop op  friendly  high  performance  restful web service
+2|splunk tool collect  monitoring  visualize analyze machine datum source  may receive fast response answerssplunkcom actively monitor splunk employee
+0|alice innovative d programming environment make easy create animation tell story  play interactive game  video share web
+1|paas short platform    service  category cloud  centric service
+0|tla language toolchain specification base tla  temporal logic action  tla toolbox include translator pluscal tla  tlc model checker  ide
+2|djs small  open  source javascript datum visualization library manipulate html  svg  css document base datum
+2|packetbeat open source solution monitor distribute application  think like distribute real  time wireshark lot analytic feature  packetbeat agent sniff traffic application process  parse fly protocol like http  mysql  postgresql  redis thrift correlate message transaction  tagpacketbeat tw  packetbeat st  assess
+2|squid open  source http cache proxy server
+0|robolectric unit test framework allow test  drive development android app  test run inside jvm workstation
+0|html  hyper text markup language  standard markup language use structuring web page format content  html describe structure website semantically along cue presentation  make markup language  rather programming language  recent revision html specification html
+2|flyway boxfuse open  source database migration tool  strongly favor simplicity convention configuration  simple  focused powerful
+2|appcode ide jetbrain build app io  osx
+2|vagrant command line tool provisioning virtualize environment top various provider  include virtualbox  vmware aw
+1|open source platform    service inspire heroku build coreo docker
+1|window internet explorer  web browser develop microsoft  release  march  windows xp  windows server   windows vista  windows server   windows
+0|dagger dependency injection library java android
+2|automate acceptance testing framework android io  calabash enable write execute automate acceptance test mobile app  calabash cross  platform  support android ios native app
+2|java base datum integration framework  use transform  map  manipulate datum various format  csv  fixlen  xml  xbase  cobol  lotus  etc    use standalone embeddedas library   connect rdbms  jms  soap  ldap  s  http  ftp  zip  tar
+1|coap application protocol design constrained device  design easily translate http
+0|go open source programming language initially develop google  statically  type language syntax loosely derive c  add automatic memory management  type safety  dynamic  type capability  additional build  type variable  length array key  value map  large standard library  tag  go tw  go language st  adopt
+1|atom xml base news  feed format
+1|amazon ec stand  amazon elastic compute cloud   part amazon web service  aws  allow user rent virtual machine instance hour  create instance  launch manage central interface  web api console
+2|apache ant  formerly jakarta ant  declarative  xml  base build tool create originally java project  provide rich set standard task perform common build operation  compile java source  build archive run test  ant s functionality extend custom task macro
+2|rest assure java  base test library rest service
+2|highchart javascript chart library use html  svg  vml  editor offer open source  nonprofit commercial edition product
+1|rackspace cloud set cloud computing product service bill utility computing basis us  base company rackspace  offering include web application host platform service   cloud site    cloud storage   cloud file    virtual private server   cloud server    load balancer  database  backup  monitoring
+1|apache mesos cluster manager provide efficient resource isolation sharing across distribute application  framework
+2|carthage decentralized dependency manager cocoa project
+2|psake  pronounce  sah  kay   japanese rice wine  build automation tool implement windows powershell
+1|open source distribute analytical engine ebay provide sql interface multi  dimensional analysis  olap  hadoop support tb pb size analysis
+2|genymotion relatively fast android emulator come pre  configure android  x opengl hardware acceleration  image  suitable application testing  project evolve old builddroid project  androvm  come new player design  installer
+1|opensocial public specification define component host environment  container  set common apis web  base application
+2|relate browser  sync nodejs module  use synchronize url  interaction code change across multiple device
+2|open  source tool java draw uml diagram
+2|webpack module bundler  webpack take module dependency generate static asset represent module
+1|amazon web service  aws  collection commercial service center around virtualize  commodity cluster computing  networking  database storage  well support tool offer infrastructure service  iaas
+2|jquery mobile touch  optimize web framework smartphone tablet  provide unified user interface system across popular mobile device platform  build jquery
+1|fido universal nd factor  uf  rapidly grow open authentication standard  allow great user account login security
+2|apache maven software project management comprehension tool  tag question not relate specific maven version  use gradle tag instead question relate gradle
+0|haskell advanced functional programming language  feature strong static typing  lazy evaluation  extensive parallelism concurrency support  unique abstraction capability
+0|react component implement google s material design
+1|tensorflow open source library machine learning machine intelligence  develop google become open source nov
+1|datomic database flexible  time  base fact  support query join  elastic scalability  acid transaction
+2|team foundation server complete application lifecycle management  alm  suite  offer microsoft
+2|restful api modeling language  raml
+2|google wave open source  real time collaboration web application provide google  extensible developer via robot gadget
+2|indexeddb provide way store datum browser use javascript  unlike relational database  indexeddb use key  value store conceptually similar html s local storage  however  indexeddb well local storage store large amount datum query datum quickly  indexeddb support ie  chrome firefox  although support specific feature varie
+2|jaspersoft studio free  open source  eclipse  base report designer jasperreport jasperreports server  create sophisticated layout contain chart  image  subreport  crosstab much  access datum jdbc  tablemodel  javabeans  xml  hibernate  csv  custom source  publish report pdf  rtf  xml  xls  csv  html  xhtml  text  docx  openoffice
+1|refer tablet personal computer  mobile compute device characterise touchscreen interface
+2|visual studio integrate development environment  ide  microsoft  use tag unless specific question visual studio  code issue
+1|firefox free  open source cross  platform web browser create mozilla
+2|polly dotnet       pcl  profile   library allow developer express transient exception handle policy retry  retry forever  wait retry circuit breaker fluent manner
+1|digitalocean cloud  host provider deploy ssd cloud server
+1|cloudstack open source cloud computing software create  managing  deploy infrastructure cloud service  use exist hypervisor oracle vm  kvm  vsphere  xenserver virtualization  addition api  cloudstack also implement amazon ec s apis  well vcloud api
+2|spagobi open source business intelligence suite cover analytical area business intelligence project  like reporting  multidimensional analysis  olap   interactive cockpit  data mining  network analysis
+2|xamarin software company  acquire microsoft february   create engineer behind mono  xamarinios  formerly call monotouch   xamarinandroid  formerly call mono android   xamarinmac  open source monomac  xamarin studio  open source monodevelop
+0|react javascript library build user interface  use declarative paradigm aim efficient flexible
+0|powershell unit testing framework
+2|bootdocker lightweight linux distribution base tiny core linux make specifically run docker container  run completely ram  weigh  mb boot s  ymmv
+0|rubymotion commercial system build native io android app use ruby
+0|hive data warehouse system hadoop facilitate easy datum summarization  ad  hoc query  analysis large dataset store hadoop compatible file system  hive provide mechanism project structure onto datum query datum use sql  like language call hiveql
+0|scala general purpose programming language principally target java virtual machine  design express common programming pattern concise  elegant  type  safe way  fuse imperative functional programming style  key feature  advanced static type system type inference  function type  pattern  match  implicit parameter conversion  operator overloading  full interoperability java  concurrency
+2|ruby build utility similar make build command define pure ruby
+1|docker provide high  level api containerize unix process application degree isolation repeatability across server
+0|python dynamic strongly type programming language design emphasize usability  two similar incompatible version python widespread use      version  specific python question consider use python pythonx tag addition python tag
+1|ibeacon bluetooth low energy  ble  also know bluetooth smart  transmitter notify nearby receiver  smart phone  presence purpose proximity sensing  unique identifier allow receiver take specific action display notification message configure use smart device lamp  smart  switch sensor
+2|nacl  pronounce  salt   high  speed software library network communication  encryption  decryption  signature   confuse  google  nativeclient
+1|presto open source distribute sql query engine run interactive analytic query datum source size range gigabyte petabyte
+1|vertx event drive application framework run jvm allow development asynchronous web application java  javascript  coffeescript ruby  python  clojure  ceylon groovy
+2|jekyll blog  aware  static site generator write ruby
+1|cordova  formerly phonegap  open  source  cross  device mobile development platform allow developer create mobile application use standard web technology like html  javascript  css deploy device  rather program device s native language
+2|rest client chrome browser  tagpostman tw  postman st  trial
+1|osgi framework module system service platform java programming language implement complete dynamic component model  tag  osgi tw  osgi st  hold
+2|apache pig platform analyze large datum set consist high  level language express datum analysis program  couple infrastructure evaluate program  salient property pig program structure amenable substantial parallelization enable handle large datum setstagapache  pig tw  apache pig st  trial
+2|espresso library use write android ui test  know also google s testing tool android
+0|less open  source stylesheet preprocessor extend css dynamic behavior variable  mixin  operation function  be also unix command display file
+2|selenium popular open  source tool automate web browser  use tag  also include tag specific component use  eg selenium  webdriver language binding  selenium  ide  selenium  grid  etc
+2|icon font font contain glyph use icon web page application  use tag question involve font use specifically way  include various method practice use glyph icon create font contain glyph
+0|httpspdyproguard client android java application
+2|cursive plug  intellij write clojure clojurescript code
+0|sinatra domain specific language  dsl  quickly create web application ruby minimal effort  alternative ruby web application framework ruby rail  nitro  camping  rango
+2|gitlab open source git repository manager issue tracking wiki well continuous integration feature
+2|talend open source integration vendor provide software datum integration  data quality  master datum management  big datum  business process management service  orient architecture
+1|memsql high  performance distribute relational database use mysql protocol
+0|clojure modern lisp dialect java virtual machine  version clr javascript   merely implementation lisp java  clojure provide access java s class ecosystem
+0|gremlin graph traversal language apache tinkerpop
+0|dapper micro  orm dotnet develop use stack overflow team  focus raw performance primary aim
+1|openam open source access management  entitlement federation server platform
+1|use tag unless address apple s iphone andor ipod touch specifically  question dependent hardware  use tag  io   another tag consider  cocoa  touch    cocoa    please refrain question regard itune app store itune connect  use csharp  tag mono
+0|annotation  base android view  injection  framework aim reduce boilerplate
+1|cloud computing hardware  base service involve computing  network storage capacity  service provide  demand  host cloud provider easily scale
+2|powershell component microsoft window command  line shell scripting environment  many window component microsoft product expose management interface powershell  make particularly suit system administration automation task  modern day successor vbscript batch file
+2|version csharp vb compiler write manage code
+2|serverspec provide ruby rspec test check server configure correctly  test server actual state execute command locally  via ssh  winrm docker api
+2|enterprise service bus  esb  software architecture construct provide fundamental service complex architecture via event  drive standard  base message engine  bus   developer typically implement esb use technology find category middleware infrastructure product  usually base recognize standard
+0|npm official package manager nodejs  non  blocking  asynchronous  framework use google s v javascript engine  use install publish commonj module  jquery plugin  reusable javascript code  library  javascript  base cli program
+0|cylonjs javascript framework robotic  physical computing  internet thing  make incredibly easy command robot device
+0|aspdotnet web api framework build http service client like browser mobile device  base microsoft dotnet framework ideal choice build restful service
+2|consul tool discover configuring service infrastructure
+1|facebook platform let developer integrate app directly facebook social networking service  use tag question may arise develop facebook  tag support question use facebook website official facebook app  also question want implement feature similar facebook variety
+1|zeptojs minimalist javascript framework modern browser  jquery  compatible syntax
+2|gulp javascript build system  nodejs  base task runner like grunt  gulp use stream code   configuration simple intuitive build process
+1|neventstore  aka joliver eventstore disambiguate geteventstorecom launch later  persistence library use abstract different storage implementation use event source storage mechanism  event source closely associate concept know cqrs
+0|ecmascript name ecma international standard   base scripting language javascript deliver netscape ecma standardization  th edition update rd edition specification cancellation th edition  add new feature include strict mode  getter setter  json object  new method object  array  date  function prototype
+2|grunt task  base command line build tool task runner javascript project
+0|lambdaj library manipulate collection without iteration
+1|rancher open source project provide complete platform operate docker production
+0|clojure  clojurescript library asynchronous programming
+2|puppet ruby  base configuration management system incorporate model  drive dsl  purpose provide configuration file enforcement  service state monitoring  package installation server  side management
+1|esp highly integrate chip design need increasingly connect world  offer complete self  contain wi  fi networking solution  allow either host application offload wi  fi networking function another application processor  important aspect price chip
+0|r free  open  source programming language software environment statistical computing  bioinformatic  graphic  please supplement question minimal reproducible example  statistical question please use
+0|javascript  confuse java  dynamic  weakly  type language use client  side well server  side scripting  use tag question regard ecmascript various dialect  implementation  exclude actionscript google  app  script   unless another tag framework  library also include  pure javascript answer expect
+2|pentaho bi suite open source business intelligence suite integrated reporting  dashboard  data mining  workflow etl capability  primarily write java
+0|functional java open source library learn implement functional programming concept java
+0|dart class  base  optionally  type programming language building web command  line application  dart compile modern javascript run client run natively dart vm server  side app
+2|git open  source distribute version control system  dvcs
+1|mongodb scalable  high  performance  open source  document  orient nosql database  support large number language application development platform  question server administration ask
+1|rich internet application  ria  web application many characteristic desktop application software  typically deliver way site  specific browser  browser plug   independent sandbox  extensive use javascript  virtual machine
+2|chef open source system integration framework chef  formerly opscode  allow describe configuration system infrastructure code  bring benefit configuration management entire infrastructure
+1|appharbor cloud application platform dotnet  application deploy appharbor use git  mercurial  subversion tfs  large number service  relational  sql database  email  error logging  offer add  ons
+1|jruby open  source java implementation ruby programming language  ruby jvm  use idiomatic ruby syntax  jruby consume java class library ease
+0|rust system programming language focus three goal  safety  speed  concurrency  maintain goal without need garbage collector  make useful language number use case language not good  embed language  program specific space time requirement  write low  level code  like device driver operating system
+2|docker provide high  level api containerize unix process application degree isolation repeatability across server
+0|axon java application framework implement software use cqrs principle
+0|html  hyper text markup language  version   umbrella term recent web technology  also late iteration html  become wc recommendation october   introduce new element apis
+0|csharp  introduce feature like dynamic object  com interoperability improvement  generic co contra  variance  optional name parameter
+0|nancy lightweight web framework net platform  inspire sinatra  nancy aim deliver low ceremony approach build light  fast web application
